@@ -1,0 +1,14 @@
+[project]
+name = "continual-learning-and-representational-drift"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "avalanche-lib>=0.6.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.9",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.17.1",
+    "torch>=2.8.0",
+]
